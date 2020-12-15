@@ -56,7 +56,10 @@ Raquel@MacBook-Pro-Rachel my-git-project % vim README.md
 #My Git Project 
 
 > My code for the git project
-~                                                                               
+
+## I'm in the feature branch
+
+> Added to master
 ~                                                                               
 ~                                                                               
 ~                                                                               
